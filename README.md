@@ -11,6 +11,7 @@ No MySQL Workbench rode o script `bunnies.sql`
 
 ### 1. Clone o repositório:
 No terminal, navegue até o local onde deseja salvar o projeto e execute: 
+ 
  `git clone https://github.com/micheleotta/Bunnies-App.git`
 
 
