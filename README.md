@@ -6,7 +6,7 @@ Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal p
 
 ## 💭 Como rodar o projeto? 
 
-### ⚠️ Antes de mais nada, não esqueça de:
+### Antes de mais nada, não esqueça de:
 No MySQL Workbench rode o script `bunnies.sql`
 
 ### 1. Clone o repositório:
