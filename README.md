@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-### 4. Pronto! Agora, quando quiser rodar o projeto, digite em dois terminais:
+### 4. Pronto! ;) Agora, quando quiser rodar o projeto, digite em dois terminais: 
 ```
 cd backend
 npm start
