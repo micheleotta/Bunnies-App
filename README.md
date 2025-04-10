@@ -12,9 +12,9 @@ No terminal, navegue até o local onde deseja salvar o projeto e execute:
 
 
 ### 2. Para o backend, execute no terminal:
-`cd backend
-npm install
-npm start`
+`cd backend `
+` npm install `
+` npm start`
 
 
 ### 3. Para o frontend, abra um novo terminal e execute:
