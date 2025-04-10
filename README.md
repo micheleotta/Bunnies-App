@@ -18,16 +18,19 @@ npm start`
 
 
 3. Para o frontend, abra um novo terminal e execute:
+   
    `cd frontend
 cd reactproject
 npm install
 npm start`
 
 
-4) Pronto! Agora, quando quiser rodar o projeto, digite em um terminal:
+4. Pronto! Agora, quando quiser rodar o projeto, digite em um terminal:
+   
 `cd backend
 npm start`
 
 Crie outro e digite:
+
 `cd backend
 npm start`
