@@ -8,8 +8,7 @@ Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal p
 
 ### 1. Clone o repositório:
 No terminal, navegue até o local onde deseja salvar o projeto e execute:
-```bash
-git clone https://github.com/micheleotta/Bunnies-App.git```
+`git clone https://github.com/micheleotta/Bunnies-App.git`
 
 
 ### 2. Para o backend, execute no terminal:
