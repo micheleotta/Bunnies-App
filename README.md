@@ -33,6 +33,7 @@ cd backend
 npm start
 ```
  ```
-cd backend
+cd frontend
+cd reactproject
 npm start
 ```
