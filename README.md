@@ -27,10 +27,10 @@ npm start`
 
 4. Pronto! Agora, quando quiser rodar o projeto, digite em um terminal:
    
-`cd backend
-npm start`
+   `cd backend
+   npm start`
 
-Crie outro e digite:
+   Crie outro e digite:
 
-`cd backend
-npm start`
+   `cd backend
+   npm start`
