@@ -7,15 +7,14 @@ Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal p
 ## 💭 Como rodar o projeto? 
 
 ### 1. Clone o repositório:
-No terminal, navegue até o local onde deseja salvar o projeto e execute:
-`git clone https://github.com/micheleotta/Bunnies-App.git`
+No terminal, navegue até o local onde deseja salvar o projeto e execute: 
+ `git clone https://github.com/micheleotta/Bunnies-App.git`
 
 
 ### 2. Para o backend, execute no terminal:
-```bash
-cd backend
+`cd backend
 npm install
-npm start
+npm start`
 
 
 ### 3. Para o frontend, abra um novo terminal e execute:
