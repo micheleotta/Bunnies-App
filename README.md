@@ -6,6 +6,7 @@ No MySQL Workbench rode o script `bunnies.sql`
 
 <h2>Para rodar o projeto no VS Code:</h2>
 1) Vá para o local onde deseja colocar o repositório e, no terminal, digite o comando:
+
    `git clone https://github.com/micheleotta/Bunnies-App.git`
 
 2) Para o backend, execute no terminal:
