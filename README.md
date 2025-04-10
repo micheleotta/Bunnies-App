@@ -13,26 +13,29 @@ No terminal, navegue até o local onde deseja salvar o projeto e execute:
 
 ### 2. Para o backend, execute no terminal:
 ```
-`cd backend `
-` npm install `
-` npm start`
+cd backend
+npm install
+npm start
 ```
 
 ### 3. Para o frontend, abra um novo terminal e execute:
    
-```bash
+```
 cd frontend
 cd reactproject
 npm install
 npm start
-
+```
 
 ### 4. Pronto! Agora, quando quiser rodar o projeto, digite em um terminal:
-```bash
-   `cd backend
-   npm start`
+```
+cd backend
+npm start
+```
 
-   Crie outro e digite:
+ Crie outro e digite:
 
-   `cd backend
-   npm start`
+ ```
+cd backend
+npm start
+```
