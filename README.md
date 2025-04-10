@@ -2,7 +2,7 @@
 
 Sistema web desenvolvido com **React**, **Node.js (Express)** e **MySQL**.
 
-Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal para um pet shop, por exemplo. 🐰
+Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal para um pet shop, por exemplo 🐰
 
 ## 💭 Como rodar o projeto? 
 
