@@ -9,17 +9,20 @@ No MySQL Workbench rode o script `bunnies.sql`
 
    `git clone https://github.com/micheleotta/Bunnies-App.git`
 
+
 2. Para o backend, execute no terminal:
 
    `cd backend
 npm install
 npm start`
 
+
 3. Para o frontend, abra um novo terminal e execute:
    `cd frontend
 cd reactproject
 npm install
 npm start`
+
 
 4) Pronto! Agora, quando quiser rodar o projeto, digite em um terminal:
 `cd backend
