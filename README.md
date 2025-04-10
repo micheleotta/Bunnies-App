@@ -1,8 +1,18 @@
-Sistema web com React, Node.js com Express e MySQL. 
+# 🐇 Bunnies App
 
-Sistema de coelhos (para pet shop, por exemplo) com CRUD (Create, Read, Update, Delete) funcional. 🐇
+Sistema web desenvolvido com **React**, **Node.js (Express)** e **MySQL**.
 
-No MySQL Workbench rode o script `bunnies.sql`
+Projeto com CRUD (Create, Read, Update, Delete) funcional de coelhos — ideal para um pet shop, por exemplo. 🐰
+
+---
+
+## 📦 Instalação e execução do projeto
+
+### 1. Clone o repositório:
+No terminal, navegue até o local onde deseja salvar o projeto e execute:
+```bash
+git clone https://github.com/micheleotta/Bunnies-App.git
+
 
 <h2>🐇 Para rodar o projeto no VS Code:</h2>
 1. Vá para o local onde deseja colocar o repositório e, no terminal, digite o comando:
