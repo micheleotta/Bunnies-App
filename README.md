@@ -41,6 +41,3 @@ cd frontend
 cd reactproject
 npm start
 ```
-
----
-Para a disciplina Experiência Criativa: Inovando Colaborativamente - PUCPR.
